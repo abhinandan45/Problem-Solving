@@ -15,4 +15,3 @@ else:
             print(i , end=" ")
 
 
-
