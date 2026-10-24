@@ -24,3 +24,6 @@ for j in vowel:
         freq[j] = 1
 
 print(freq)
+
+for k,l in freq.items():
+    print(f"{k} : {l}")
