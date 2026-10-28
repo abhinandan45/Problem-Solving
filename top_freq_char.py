@@ -18,4 +18,5 @@ for k,j in freq.items():
         l = j
         m = k
 
+print(l,m)
         
