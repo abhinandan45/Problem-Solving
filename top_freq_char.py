@@ -9,3 +9,13 @@ for i in sen:
     else:
         freq[i] += 1
 
+l = float("-inf")
+m = ""
+
+
+for k,j in freq.items():
+    if j > l:
+        l = j
+        m = k
+
+        
