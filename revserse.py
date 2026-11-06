@@ -7,3 +7,8 @@ for i in sen:
 
 
 print(rev)
+
+
+reverse = sen[::-1]
+
+print(reverse)
