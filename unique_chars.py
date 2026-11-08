@@ -13,4 +13,5 @@ for i in sen.replace(" ",""):
 
 for j,k in freq.items():
     if k == 1:
-        print(f"{j}")
+        print(j)
+
