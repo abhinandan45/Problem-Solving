@@ -2,7 +2,6 @@ sen = "my name is abhinandan"
 
 freq = {}
 
-w = ""
 
 for i in sen.replace(" ",""):
     if i not in freq:
