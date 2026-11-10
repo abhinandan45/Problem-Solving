@@ -15,3 +15,6 @@ for j,k in freq.items():
     if k == 1:
         print(j)
 
+for j,k in freq.items():
+    if k == 2:
+        print(j)
