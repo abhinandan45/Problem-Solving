@@ -12,3 +12,4 @@ for i in lis:
         sec_min = i
 
 print(sec_min)
+print(sec_min)
