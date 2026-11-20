@@ -13,3 +13,4 @@ for i in lis:
         sec_max = i
 
 print(sec_max)
+print(sec_max)
